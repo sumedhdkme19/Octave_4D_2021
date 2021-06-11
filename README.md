@@ -16,3 +16,4 @@ The page numbers of the problems in the lab manual are:\
 14.) 100-105: MFT- Merchant Circle Diagram\
 
 For referring to the manual [Click here](https://drive.google.com/file/d/1wpap-hMj5dNcbb8GGF3Sb1shpFfPWi6O/view)
+`Please use BMSCE email id for viewing the Lab Manual`
