@@ -15,4 +15,4 @@ The page numbers of the problems in the lab manual are:\
 13.) 98-99: DME-Design of Shafts\
 14.) 100-105: MFT- Merchant Circle Diagram\
 
-`For referring to the manual [https://drive.google.com/file/d/1wpap-hMj5dNcbb8GGF3Sb1shpFfPWi6O/view](Click here)`
+`For referring to the manual (https://drive.google.com/file/d/1wpap-hMj5dNcbb8GGF3Sb1shpFfPWi6O/view)[Click here]`
