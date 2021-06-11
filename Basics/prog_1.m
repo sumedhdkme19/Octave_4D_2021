@@ -2,4 +2,6 @@
 //1a
 vector = [ 11 -3 exp(7.8) log(59) tan(pi/3) 5*log10(26)]
 //OR
-vector = [ 11, -3, exp(7.8), log(59), tan(pi/3), 5*log10(26)]
+vector = [ 11, -3, exp(7.8), log(59), tan(pi/3), 5*log10(26)] 
+//1b
+row_vector = (5:20)
