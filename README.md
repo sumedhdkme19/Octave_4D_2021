@@ -1,5 +1,5 @@
 # Octave_4D_2021
-`The page numbers of the problems in the lab manual ar:
+The page numbers of the problems in the lab manual ar:
 1.) 14-16: Basics
 2.) 21-22: System of Equations[Matrices]
 3.) 30-37: Plots and graphs
@@ -13,4 +13,4 @@
 11.) 91-92: Kinetics of Machines
 12.) 96: DME-Theory of Failure
 13.) 98-99: DME-Design of Shafts
-14.) 100-105: MFT- Merchant Circle Diagram`
+14.) 100-105: MFT- Merchant Circle Diagram
