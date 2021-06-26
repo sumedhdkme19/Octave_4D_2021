@@ -48,6 +48,15 @@ t1=A*(B+C)
 t2=(A*B)+(A*C)
 % Solutiions of t1 and t2 will be same
 
+//8
+a = [3 2 0;2 -1 7;5 4 9];
+b = [-4 2 5;7 -1 6;2 3 7];
+c = [-1 2 -5;4 3 7;7 -6 1];
+
+n1 = (a*b*c)'
+n2 =  c'*b'*a'
+%Solutions of n1 and n2 will be same
+
 
 
   
