@@ -48,7 +48,7 @@ t1=A*(B+C)
 t2=(A*B)+(A*C)
 % Solutiions of t1 and t2 will be same
 
-//8
+//8recheck..
 a = [3 2 0;2 -1 7;5 4 9];
 b = [-4 2 5;7 -1 6;2 3 7];
 c = [-1 2 -5;4 3 7;7 -6 1];
@@ -58,5 +58,14 @@ n2 =  c'*b'*a'
 %Solutions of n1 and n2 will be same
 
 
+//10
+A=[1 -2;1 5];
+B= [1 5;-2 7];
+e = eig(A,B)
+[V,D] = eig(A,B)
+[V,D,W] = eig(A,B)
+disp(V)
+sort(D)
+disp(D)
 
   
