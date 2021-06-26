@@ -78,4 +78,7 @@ b = 2;
 c = 1.8;
 x = a*b +(a*b*(a+b))/(c*sqrt(a*b)) + c^a+(sqrt(14)*b) + log(2) +(log10(c)/log10(a+b+c)) +2*sinh(a) - 3*tanh(b)
 
-
+//pg21
+a = [1 2 -3;-3 -1 1;1 -1 1]
+b = [5;-8;0]
+X = a'*b
