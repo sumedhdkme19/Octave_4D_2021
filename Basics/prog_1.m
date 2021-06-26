@@ -71,5 +71,11 @@ disp(D)
 //14
 a =(17*((5^0.5) -1))/(15^2 - 13^2) +(5^7*log10(exp(3)))/(pi*121^0.5) +log(exp(4)) +11^0.5
 
+//16
+%16&17 are related
+a = 1;
+b = 2;
+c = 1.8;
+x = a*b +(a*b*(a+b))/(c*sqrt(a*b)) + c^a+(sqrt(14)*b) + log(2) +(log10(c)/log10(a+b+c)) +2*sinh(a) - 3*tanh(b)
 
 
