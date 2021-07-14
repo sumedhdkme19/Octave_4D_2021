@@ -4,4 +4,7 @@
 //2b
   x = 0:2*pi;
   plot(x,cos(x).^2)
-  
+//4
+  t = 0:3;
+  y = 45*sin(0.4*t);
+  plot(t,y)
