@@ -1,2 +1,7 @@
-x = 0:2*pi;
-plot(x,sin(x).^2)
+//2a
+  x = 0:2*pi;
+  plot(x,sin(x).^2)
+//2b
+  x = 0:2*pi;
+  plot(x,cos(x).^2)
+  
