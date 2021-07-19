@@ -37,3 +37,14 @@
  plot(t,y2)
  plot(t,y3)
  legend('y1','y2','y3')
+ 
+ //14
+ %14
+  t = 0:0.1:1;
+   x =t;
+   y = t.^2;
+   z = t.^3;
+    plot(t,x)
+  hold on
+    plot(t,y)
+    plot(t,z)
