@@ -45,6 +45,13 @@
    y = t.^2;
    z = t.^3;
     plot(t,x)
-  hold on
+    hold on
     plot(t,y)
     plot(t,z)
+
+//16
+ x = 0:0.05:15;
+ w =10;
+ y = exp(-0.6.*x) + cos(w.*x);
+ plot(x,y)
+    
