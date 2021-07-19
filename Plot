@@ -26,3 +26,14 @@
  z = y+y.^3-x.^3-5;
   plot(x,z)
  grid on
+
+//12
+ t = 0:2*pi;
+ y1 = sin(t);
+ y2 = t 
+ y3 = t-((t.^3)/factorial(3))+((t.^5)/factorial(5))+((t.^7)/factorial(7));
+ plot(t,y1)
+ hold on %To let the previous graphs to stay on the same plot
+ plot(t,y2)
+ plot(t,y3)
+ legend('y1','y2','y3')
